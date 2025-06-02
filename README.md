@@ -1,5 +1,19 @@
 ## Hi there 👋
 
-I'm currently pursuing Bachelor's degree at Sacramento State University 
-I'm currently learning JavaScript, React and Node.js 
+I'm Swechha, a student at Sacramento State University. 
+
+##Skills
+Programming languages: JavaScript 
+Framework:
+
+##Projects
+[ app]
+
+##Fun facts
+-Currently learning: React and node.js
+
+
+
+
+
 
