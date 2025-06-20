@@ -3,8 +3,9 @@
 I'm Swechha, a student at Sacramento State University. 
 
 ##Skills
-Programming languages: JavaScript 
-Framework:
+Programming languages: JavaScript  
+
+##Framework:
 
 ##Projects
 [ app]
