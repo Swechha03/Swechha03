@@ -2,16 +2,16 @@
 
 I'm Swechha, a student at Sacramento State University. 
 
-##Skills
-Programming languages: JavaScript  
+##Skills <br>
+JavaScript, React, HTML and CSS
 
-##Framework:
 
-##Projects
-[ app]
 
-##Fun facts
--Currently learning: React and node.js
+##Projects <br>
+[ Weather app]: Using API 
+
+##Fun facts <br>
+-Currently learning: DSA and Node.js  
 
 ##  LeetCode Progress <br>
 
