@@ -8,7 +8,7 @@ JavaScript, React, HTML and CSS
 
 
 ##Projects <br>
-[ Weather app]: Using API 
+[ Weather app]: Using API, JS, HTML and CSS
 
 ##Fun facts <br>
 -Currently learning: DSA and Node.js  
