@@ -2,9 +2,8 @@
 
 I'm Swechha, a CS student at Sacramento State University. 
 
-<br> 
-## Skills: 
-<br>
+
+## Skills: <br>
 JavaScript, React, Vite, HTML, CSS, Git and Github, Copilot <br>
 ## Projects: <br>
 [Todo App]: React, HTML and CSS <br>
